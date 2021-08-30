@@ -85,12 +85,3 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jsantana7)
-
-<p align='center'>
-💻 My workspace<br/><br/>
-</p>
-
-![image](https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white)
-![image](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![image](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![image](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
