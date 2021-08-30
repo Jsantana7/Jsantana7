@@ -1,8 +1,8 @@
-# Welcome!
+# Bem Vindo !
 
  
 
-## I'm Jonathan Santana!
+## Oi sou o Jonathan Santana !
 
  <img align="right" alt="PC GIF" src="https://github.com/Jsantana7/Jsantana7/blob/main/PC.gif" width="190" />
 
