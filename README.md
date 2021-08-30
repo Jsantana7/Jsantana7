@@ -25,6 +25,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsantana7&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsantana7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/Jsantana7/Jsantana7/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -42,4 +43,3 @@
 
 <br>
 
-![Snake animation](https://github.com/Jsantana7/Jsantana7/blob/output/github-contribution-grid-snake.svg)
