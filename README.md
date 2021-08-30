@@ -26,6 +26,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsantana7&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsantana7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+##
+
 ![image](https://img.shields.io/badge/acer-laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white)
 ![image](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
