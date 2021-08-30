@@ -4,7 +4,8 @@
 
 ## I'm Jonathan Santana!
 
- 
+ <img align="right" alt="PC GIF" src="https://github.com/Jsantana7/Jsantana7/blob/main/PC.gif" width="190" />
+
 
 :computer: Data Science and Data Engineer!
 
@@ -35,3 +36,8 @@
 
 - Aproveite!! o /
 
+<br>
+
+<img src="https://github.com/Jsantana7/Jsantana7/blob/main/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+<br>
