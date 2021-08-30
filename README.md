@@ -41,3 +41,6 @@
 <img src="https://github.com/Jsantana7/Jsantana7/blob/main/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
+
+
+![Snake animation](https://github.com/Jsantana7/blob/output/github-contribution-grid-snake.svg)
