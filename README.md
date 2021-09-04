@@ -77,11 +77,7 @@
 
 - Aproveite!! o /
 
-<br>
 
-<img src="https://github.com/Jsantana7/Jsantana7/blob/main/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jsantana7)
