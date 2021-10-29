@@ -1,8 +1,8 @@
-# Bem Vindo !
+# Welcome !
 
  
 
-## Oi sou o Jonathan Santana !
+## Hi Jonathan Santana !
 
  <img align="right" alt="PC GIF" src="https://github.com/Jsantana7/Jsantana7/blob/main/PC.gif" width="190" />
 
@@ -27,7 +27,6 @@
    
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
@@ -51,8 +50,6 @@
 #### Operating Systems
 ![image](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
 
 
 ### ☁️ Cloud
