@@ -13,8 +13,6 @@
 
 :books: LLL - Life Long Learning.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
-
 
 ## Sobre mim
 
