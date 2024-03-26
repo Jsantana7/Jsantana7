@@ -7,7 +7,7 @@
  <img align="right" alt="PC GIF" src="https://github.com/Jsantana7/Jsantana7/blob/main/PC.gif" width="190" />
 
 
-:computer: Python
+:computer: Linux
 
 :house_with_garden: I’m from Brazil.
 
